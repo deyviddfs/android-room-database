@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidRoomDatabase</string>
+    <string name="nome">Nome:</string>
+    <string name="salvar">Salvar</string>
+</resources>
